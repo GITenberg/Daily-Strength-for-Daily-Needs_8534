@@ -1,0 +1,30 @@
+_repo: Daily-Strength-for-Daily-Needs_8534
+creator:
+  author:
+    agent_name: Tileston, Mary Wilder
+    aliases:
+    - Tileston, Mary W. (Wilder)
+    - Tileston, Mary Wilder (Foote)
+    birthdate: 1843
+    deathdate: 1934
+    gutenberg_agent_id: '2785'
+    url: http://www.gutenberg.org/2009/agents/2785
+description: For every day of the year, this 1884 book offers a Bible verse, a Christian
+  devotional reading, and an inspirational selection of spiritual writing. Encompassing
+  prose and poetry, featured authors include religious figures such as St. Augustine,
+  Martin Luther, and Cardinal John Newman, as well as quotes from Longfellow, Coleridge,
+  Emerson, Milton, Goethe, and many others.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Calendars'
+- !lcsh 'Devotional exercises'
+title: Daily Strength for Daily Needs
+url: http://www.gutenberg.org/ebooks/8534

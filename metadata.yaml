@@ -1,4 +1,8 @@
 _repo: Daily-Strength-for-Daily-Needs_8534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tileston, Mary Wilder
@@ -14,6 +18,8 @@ description: For every day of the year, this 1884 book offers a Bible verse, a C
   prose and poetry, featured authors include religious figures such as St. Augustine,
   Martin Luther, and Cardinal John Newman, as well as quotes from Longfellow, Coleridge,
   Emerson, Milton, Goethe, and many others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8534#Daily-Strength-for-Daily-Needs
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
